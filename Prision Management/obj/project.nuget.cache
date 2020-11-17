@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V2KGxt+F13S0L/zzooFvocqa38cOIpcHiOi5ApJlKJrm/hWoI0Rxji6xeTHCix793Rh3ONOjerpMAt/rBYHVTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokul\\Desktop\\Prision Management\\Prision Management\\Prision Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokul\\.nuget\\packages\\microsoft.web.webview2\\1.0.622.22\\microsoft.web.webview2.1.0.622.22.nupkg.sha512"
+  ],
+  "logs": []
+}

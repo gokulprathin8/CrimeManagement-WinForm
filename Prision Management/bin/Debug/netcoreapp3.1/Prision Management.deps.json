@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prision Management/1.0.0": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.622.22"
+        },
+        "runtime": {
+          "Prision Management.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.622.22": {}
+    }
+  },
+  "libraries": {
+    "Prision Management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.622.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B6tHJY6zjBSanQ+DEBkcu4KTP60dkTYrqMtqVfax10b+2qHLPeC/Vk2wBenwo+zqm4Uf2gOfuSmB7kX72SeOMw==",
+      "path": "microsoft.web.webview2/1.0.622.22",
+      "hashPath": "microsoft.web.webview2.1.0.622.22.nupkg.sha512"
+    }
+  }
+}

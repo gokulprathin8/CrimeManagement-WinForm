@@ -1,0 +1,58 @@
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.exe
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.deps.json
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.json
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.dev.json
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.dll
+C:\Users\gokul\source\repos\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.pdb
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csprojAssemblyReference.cache
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form1.resources
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Main.resources
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Properties.Resources.resources
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csproj.GenerateResource.cache
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfoInputs.cache
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfo.cs
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.dll
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.pdb
+C:\Users\gokul\source\repos\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.genruntimeconfig.cache
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.exe
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\WebView2Loader.dll
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.deps.json
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.json
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.dev.json
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.dll
+D:\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.pdb
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csprojAssemblyReference.cache
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form1.resources
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Main.resources
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Properties.Resources.resources
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csproj.GenerateResource.cache
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfoInputs.cache
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfo.cs
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csproj.CoreCompileInputs.cache
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.dll
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.pdb
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.genruntimeconfig.cache
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form2.resources
+D:\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form3.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.exe
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\WebView2Loader.dll
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.deps.json
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.json
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.runtimeconfig.dev.json
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.dll
+C:\Users\gokul\Desktop\Prision Management\Prision Management\bin\Debug\netcoreapp3.1\Prision Management.pdb
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csprojAssemblyReference.cache
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form1.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form2.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Form3.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Main.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.Properties.Resources.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csproj.GenerateResource.cache
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfoInputs.cache
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.AssemblyInfo.cs
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.csproj.CoreCompileInputs.cache
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.dll
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.pdb
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision Management.genruntimeconfig.cache
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.ManageComplaint.resources
+C:\Users\gokul\Desktop\Prision Management\Prision Management\obj\Debug\netcoreapp3.1\Prision_Management.ManageFIR.resources
